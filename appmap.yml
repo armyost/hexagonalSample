@@ -1,0 +1,12 @@
+appmap_dir: tmp\appmap
+language: python
+name: hexagonalSample
+packages:
+- path: service
+- path: config
+- path: test
+- path: infrastructure
+- path: application
+- path: domain
+- path: controller
+- path: model
